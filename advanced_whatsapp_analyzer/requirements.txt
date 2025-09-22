@@ -1,0 +1,80 @@
+# Core Framework
+streamlit
+streamlit-option-menu
+
+# Data Processing
+pandas
+numpy
+openpyxl
+
+# Visualization
+plotly
+matplotlib
+seaborn
+wordcloud
+
+# Machine Learning & NLP
+scikit-learn
+transformers
+torch
+sentence-transformers
+spacy
+nltk
+textblob
+vaderSentiment
+langdetect
+googletrans
+
+# Topic Modeling
+gensim
+pyLDAvis
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# API & Web
+requests
+fastapi
+uvicorn
+pydantic
+
+# Security & Authentication
+cryptography
+passlib
+python-jose
+python-multipart
+
+# Utilities
+python-dotenv
+pyyaml
+tqdm
+joblib
+urlextract
+emoji
+
+# Testing
+pytest
+pytest-cov
+
+# Export & Reporting
+reportlab
+fpdf
+jinja2
+
+# Time Series Analysis
+statsmodels
+pmdarima
+
+# Cloud Storage (Optional)
+boto3
+azure-storage-blob
+
+# Monitoring & Logging
+loguru
+prometheus-client
+
+# Development
+black
+flake8
+mypy
